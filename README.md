@@ -1,6 +1,6 @@
 💼 Transformando el Talento
 
-Transformando el Talento es un proyecto desarrollado en el marco del programa de formación en Analítica de Datos de Adalab.
+Es un proyecto desarrollado en el marco del programa de formación en Analítica de Datos de Adalab.
 Su propósito es analizar, limpiar y visualizar datos relacionados con el desarrollo profesional y el bienestar de las personas en el entorno laboral, utilizando técnicas de análisis exploratorio y narrativas basadas en datos.
 ________________________________________
 
